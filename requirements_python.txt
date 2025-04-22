@@ -1,6 +1,6 @@
-streamlit
-pandas
-numpy
-plotly
-openpyxl # Necesario para leer/escribir archivos Excel (.xlsx) con Pandas
-pulp     # Aunque no usamos PuLP en el último script, lo dejo por si vuelves a la versión de optimización
+streamlit>=1.28.0,<2.0.0
+pandas>=1.5.0,<3.0.0
+numpy>=1.23.0,<2.0.0
+plotly>=5.15.0,<6.0.0
+openpyxl>=3.1.0,<4.0.0
+pulp>=2.7.0,<3.0.0
