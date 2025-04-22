@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+plotly
+openpyxl # Necesario para leer/escribir archivos Excel (.xlsx) con Pandas
+pulp     # Aunque no usamos PuLP en el último script, lo dejo por si vuelves a la versión de optimización
